@@ -1,0 +1,54 @@
+{
+  "name": "Wonder Boss #70",
+  "symbol": "WonderBoss",
+  "description": "Unleash Your Inner Boss",
+  "seller_fee_basis_points": 1000,
+  "image": "70.png",
+  "external_url": "https://wonderboss.com/",
+  "edition": 70,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rune of Light"
+    },
+    {
+      "trait_type": "Tattoos",
+      "value": "Artists"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Gray Shirt"
+    },
+    {
+      "trait_type": "Bombilla",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Hairs",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "Samurai Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "70.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "G9aTEzVds8rpE1vmZ6URhMUsgKLYVYDx6UWyRmR53f99",
+        "share": 100
+      }
+    ]
+  }
+}

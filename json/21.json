@@ -1,0 +1,54 @@
+{
+  "name": "Wonder Boss #21",
+  "symbol": "WonderBoss",
+  "description": "Unleash Your Inner Boss",
+  "seller_fee_basis_points": 1000,
+  "image": "21.png",
+  "external_url": "https://wonderboss.com/",
+  "edition": 21,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rune of Sky"
+    },
+    {
+      "trait_type": "Tattoos",
+      "value": "Scientists"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Galaxy Sweet"
+    },
+    {
+      "trait_type": "Bombilla",
+      "value": "No"
+    },
+    {
+      "trait_type": "Hairs",
+      "value": "Top Knot Fringer"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "WolfSchool"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "21.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "G9aTEzVds8rpE1vmZ6URhMUsgKLYVYDx6UWyRmR53f99",
+        "share": 100
+      }
+    ]
+  }
+}

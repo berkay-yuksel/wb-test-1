@@ -1,0 +1,54 @@
+{
+  "name": "Wonder Boss #12",
+  "symbol": "WonderBoss",
+  "description": "Unleash Your Inner Boss",
+  "seller_fee_basis_points": 1000,
+  "image": "12.png",
+  "external_url": "https://wonderboss.com/",
+  "edition": 12,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rune of Blood"
+    },
+    {
+      "trait_type": "Tattoos",
+      "value": "Scientists"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Red Dress"
+    },
+    {
+      "trait_type": "Bombilla",
+      "value": "No"
+    },
+    {
+      "trait_type": "Hairs",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "WolfSchool"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "12.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "G9aTEzVds8rpE1vmZ6URhMUsgKLYVYDx6UWyRmR53f99",
+        "share": 100
+      }
+    ]
+  }
+}

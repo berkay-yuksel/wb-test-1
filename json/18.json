@@ -1,0 +1,54 @@
+{
+  "name": "Wonder Boss #18",
+  "symbol": "WonderBoss",
+  "description": "Unleash Your Inner Boss",
+  "seller_fee_basis_points": 1000,
+  "image": "18.png",
+  "external_url": "https://wonderboss.com/",
+  "edition": 18,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Tattoos",
+      "value": "Scientists"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Bombilla",
+      "value": "No"
+    },
+    {
+      "trait_type": "Hairs",
+      "value": "War Bonnet"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "Nordic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Birdbox"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "18.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "G9aTEzVds8rpE1vmZ6URhMUsgKLYVYDx6UWyRmR53f99",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Wonder Boss #77",
+  "symbol": "WonderBoss",
+  "description": "Unleash Your Inner Boss",
+  "seller_fee_basis_points": 1000,
+  "image": "77.png",
+  "external_url": "https://wonderboss.com/",
+  "edition": 77,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Tattoos",
+      "value": "Artists"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Stripped Sweet"
+    },
+    {
+      "trait_type": "Bombilla",
+      "value": "No"
+    },
+    {
+      "trait_type": "Hairs",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rene Apple"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "77.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "G9aTEzVds8rpE1vmZ6URhMUsgKLYVYDx6UWyRmR53f99",
+        "share": 100
+      }
+    ]
+  }
+}

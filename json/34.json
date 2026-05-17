@@ -1,0 +1,54 @@
+{
+  "name": "Wonder Boss #34",
+  "symbol": "WonderBoss",
+  "description": "Unleash Your Inner Boss",
+  "seller_fee_basis_points": 1000,
+  "image": "34.png",
+  "external_url": "https://wonderboss.com/",
+  "edition": 34,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Tattoos",
+      "value": "Warriors"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Rockstar"
+    },
+    {
+      "trait_type": "Bombilla",
+      "value": "No"
+    },
+    {
+      "trait_type": "Hairs",
+      "value": "Quiff"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "Van Dyke"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Plague Doctor"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "34.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "G9aTEzVds8rpE1vmZ6URhMUsgKLYVYDx6UWyRmR53f99",
+        "share": 100
+      }
+    ]
+  }
+}

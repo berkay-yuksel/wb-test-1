@@ -1,0 +1,54 @@
+{
+  "name": "Wonder Boss #60",
+  "symbol": "WonderBoss",
+  "description": "Unleash Your Inner Boss",
+  "seller_fee_basis_points": 1000,
+  "image": "60.png",
+  "external_url": "https://wonderboss.com/",
+  "edition": 60,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Tattoos",
+      "value": "Scientists"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Gray Shirt"
+    },
+    {
+      "trait_type": "Bombilla",
+      "value": "No"
+    },
+    {
+      "trait_type": "Hairs",
+      "value": "Twisted Side Braid"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "Vampyre"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloody"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "60.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "G9aTEzVds8rpE1vmZ6URhMUsgKLYVYDx6UWyRmR53f99",
+        "share": 100
+      }
+    ]
+  }
+}
